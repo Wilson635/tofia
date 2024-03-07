@@ -10,6 +10,7 @@ import {
 } from "./design/Services";
 
 import Generating from "./Generating";
+import Button from "./Button";
 
 const Services = () => {
   return (
@@ -71,6 +72,9 @@ const Services = () => {
                   Automatically enhance your photos using our AI app&apos;s
                   photo editing feature. Try it now!
                 </p>
+                <Button className="mt-5">
+                  <a href="https://imagy-tofia.vercel.app/" target="_blank" rel="noopener noreferrer"> Try it now </a>
+                </Button>
               </div>
 
               <PhotoChatMessage />
