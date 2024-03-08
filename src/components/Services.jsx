@@ -73,7 +73,7 @@ const Services = () => {
                   photo editing feature. Try it now!
                 </p>
                 <Button className="mt-5">
-                  <a href="https://imagy-tofia.vercel.app/" target="_blank" rel="noopener noreferrer"> Try it now </a>
+                  <a href="https://ai-saas-platform-xi.vercel.app/" target="_blank" rel="noopener noreferrer"> Try it now </a>
                 </Button>
               </div>
 
